@@ -1,14 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccb03cc4-c42e-4f16-a24d-5a9774d68819" name="Changes" comment="" />
+    <list default="true" id="ccb03cc4-c42e-4f16-a24d-5a9774d68819" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/collection/collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/iterable/iterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mapBehaved7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mapBehaved8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mapBehaved9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mapOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mutablemap/mapBehaved1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mutablemap/mapBehaved2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mutablemap/mapBehaved3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mutablemap/mapBehaved4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mutablemap/mapBehaved5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/map/mutablemap/mapBehaved6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/mutable/mutableCollection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/mutable/mutableIterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/mutable/mutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/mutable/mutableMapOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/mutable/mutableSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/Uso do set" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/set2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/set3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/set4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/setIntersect.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/setSubtract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/set/setUnion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/templates/DataName.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/templates/Pedido.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/templates/testCopyReferenceCollection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testBehavedMap9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testCopiandoCollections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testDataBaseNames.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceCollection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceMutableCollection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceMutableIterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceMutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceMutableMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetIntersect.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetOf2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetOf3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetOf4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetSubtract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testInstanceSetUnion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testListsWithAddedElements.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testListsWithAddedElements2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/test/testinstanceIterable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/associate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/associateBy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/associateWith.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/eachCount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/groupyBy1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/groupyBy2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/map2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mapForEForEachKeysValues.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mutablemap/mapBehavedFiltter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mutablemap/mapBehavedGetOr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mutablemap/mapBehavedKeysValues.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mutablemap/mapBehavedPutAll.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mutablemap/mapBehavedRemove.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/map/mutablemap/mapBehavedSomaESubtracao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/Uso do set" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/set.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/set2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/set3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/set4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/setIntersect.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/setSubtract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/estudos/collectionsetmap/treino/set/setUnion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N0zATUHq3AxqnxxDzkGxYJaTRC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,9 +114,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Kevin Richard/Documents/MeusProjetos/KotlinParaBackEnd/collectionsetemap/src/main/kotlin/br/com/estudos/collectionsetmap/test"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Richard\Documents\MeusProjetos\KotlinParaBackEnd\collectionsetemap\src\main\kotlin\br\com\estudos\collectionsetmap\test" />
+      <recent name="C:\Users\Kevin Richard\Documents\MeusProjetos\KotlinParaBackEnd\collectionsetemap\src\main\kotlin\br\com\estudos\collectionsetmap\treino\set" />
+      <recent name="C:\Users\Kevin Richard\Documents\MeusProjetos\KotlinParaBackEnd\collectionsetemap\src\main\kotlin\br\com\estudos\collectionsetmap\treino\map\mutablemap" />
+      <recent name="C:\Users\Kevin Richard\Documents\MeusProjetos\KotlinParaBackEnd\collectionsetemap\src\main\kotlin\br\com\estudos\collectionsetmap\test\map" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevin Richard\Documents\MeusProjetos\KotlinParaBackEnd\collectionsetemap\src\main\kotlin\br\com\estudos\collectionsetmap\map" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
